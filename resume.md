@@ -1,1 +1,1 @@
-[Resume](/RMWilsonResume.pdf)
+![Resume](/RMWilsonResume.pdf)
