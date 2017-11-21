@@ -1,1 +1,1 @@
-<iframe src="https://ryanmwilson.github.io/RMWilsonResume.pdf" width="100%" height="800px"></iframe>
+<iframe src="https://ryanmwilson.github.io/RMWilsonResume.pdf" width="window.innerWidth" height="window.innerHeight"></iframe>
