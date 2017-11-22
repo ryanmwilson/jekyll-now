@@ -3,7 +3,7 @@
      position: relative;
      height: 0; 
      overflow: hidden;
-     padding-bottom: 120%;
+     padding-bottom: 129.411764706%;
  }
    
  #pdfWrapper iframe {
