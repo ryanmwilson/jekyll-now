@@ -15,6 +15,6 @@
  }
  </style>
 
-<div id="pdfWrapper">><
+<div id="pdfWrapper">
 <iframe src="https://ryanmwilson.github.io/RMWilsonResume.pdf" frameBorder="0"/iframe> 
 </div>
